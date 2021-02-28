@@ -11,7 +11,7 @@ const cors = require("cors");
 // session module
 const cookieSession = require("cookie-session");
 
-// create an instance of express
+// create instance of express
 const app = express();
 
 // import service providers
