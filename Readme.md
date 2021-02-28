@@ -14,13 +14,13 @@ Currently, the app has the following features:
     - User must provide a valid username, email, and password
     - Error messages will be displayed for any invalid inputs
     - Once successful, the user will be redirected to the login page to enter their credentials
-    - <img src="https://puu.sh/HkZlW/40868250dc.png" alt="signup page" />
+    <img src="https://puu.sh/HkZlW/40868250dc.png" alt="signup page" />
     
 2. Ability to login users
     - User must provide valid email and password
     - Error messages will be displayed for any invalid inputs
     - Once successful, the user will be redirected to the protected dashboard page after authentication
-    - <img src="https://puu.sh/HkZol/626982a982.png" alt="signup page" />
+    <img src="https://puu.sh/HkZol/626982a982.png" alt="signup page" />
 
 
 
