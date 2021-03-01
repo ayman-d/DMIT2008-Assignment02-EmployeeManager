@@ -1,5 +1,5 @@
 {
-  "name": "employee-manager",
+  "name": "employee-manager-1.0",
   "version": "1.0.0",
   "description": "app used to maintain data about company employees",
   "main": "server.js",
