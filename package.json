@@ -1,7 +1,7 @@
 {
-  "name": "authentication",
+  "name": "employee-manager",
   "version": "1.0.0",
-  "description": "simple use of passport-local authentiction",
+  "description": "app used to maintain data about company employees",
   "main": "server.js",
   "scripts": {
     "server": "nodemon server/index.js  --watch ./server",
